@@ -1,0 +1,22 @@
+// git init -> initialize git repo
+
+//? configure
+// git config --global --list -> list global config 
+// git config --global  user.name   "your name" -> list global config 
+
+// .gitignore file at root of git repo -> ignores changes on file includes in .gitignore
+
+
+
+// commands
+// git status -> show current status of repo/brnach
+// git add <file_path>
+// ? changes  -> stage (staging changes)
+
+// git commit -m "commit_message"
+
+// brnach 
+// git branch  -> list all available brnaches
+// git branch <branch_name>
+// ?switch branch
+
