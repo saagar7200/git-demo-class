@@ -20,3 +20,7 @@
 // git branch <branch_name>
 // ?switch branch
 
+
+//! merge 
+// git merge <branch_name>
+// local branch
