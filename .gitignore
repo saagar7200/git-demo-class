@@ -1,2 +1,4 @@
-node_modules
 .vscode
+# array.js
+.env
+node_modules
