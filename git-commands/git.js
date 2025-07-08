@@ -11,6 +11,8 @@
 // ?commands
 // git status -> show current status of repo/brnach
 // git add <file_path>
+// ! add all changes at once
+// git add .
 // ? changes  -> stage (staging changes)
 
 // git commit -m "commit_message"
@@ -36,4 +38,7 @@
 
 // working with origin
 // git push origin <branch_name>
+
+
+// wt -> staging area -> commit (local branch) -> push remote branch
 
