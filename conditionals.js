@@ -50,6 +50,12 @@ switch (day) {
   }
 }
 
+// // ternary operator
+
+// const age = 31;
+
+// const result =
+//   age <= 17 ? "children" : age > 17 && age <= 30 ? "adult" : "you are senior";
 
 // console.log(result);
 
