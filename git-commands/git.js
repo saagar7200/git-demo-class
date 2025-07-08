@@ -38,7 +38,7 @@
 
 // working with origin
 // git push origin <branch_name>
-
+// git pull origin <branch_name>
 
 // wt -> staging area -> commit (local branch) -> push remote branch
 
