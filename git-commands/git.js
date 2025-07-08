@@ -28,4 +28,12 @@
 //! merge 
 // git merge <branch_name>
 // local branch
+// !remote
+// list remote repo 
+// git remote add origin <origin_link>
+// git remote -v
+// git remote remove origin 
+
+// working with origin
+// git push origin <branch_name>
 
