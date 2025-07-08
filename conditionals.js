@@ -50,12 +50,12 @@ switch (day) {
   }
 }
 
-// ternary operator
+// // ternary operator
 
-const age = 31;
+// const age = 31;
 
-const result =
-  age <= 17 ? "children" : age > 17 && age <= 30 ? "adult" : "you are senior";
+// const result =
+//   age <= 17 ? "children" : age > 17 && age <= 30 ? "adult" : "you are senior";
 
 // console.log(result);
 
@@ -111,17 +111,5 @@ for (value of numbers) {
 // for in
 // objects
 
-const person = {
-  name: "abc",
-  age: 20,
-};
-
-for (key in person) {
-  console.log(person[key]);
-}
-
-for (key in numbers) {
-  console.log(numbers[key]);
-}
 
 
