@@ -40,5 +40,30 @@
 // git push origin <branch_name>
 // git pull origin <branch_name>
 
+// git clone <remote_repo_link>
+
 // wt -> staging area -> commit (local branch) -> push remote branch
+
+// ..  => git add
+
+
+// ! working with git/github
+// git init -> initiaize git repo.
+
+// * adding remote repository link to local repo.
+// git remote add origin <Remore_repo_link>
+
+// ?steps to push changes on github
+// working tree (text editor)
+// changes  that are ready to added to git needs to added on staging are  -> git add <file_path> <file_path>...
+// to add all changes at once  -> git add .
+// git commit -m "<commit_message>"
+// git push origin <branch_name>
+
+//! git pull
+
+
+
+
+
 
