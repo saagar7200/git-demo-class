@@ -1,4 +1,4 @@
-// var x 
+// var x
 //  function greet (){
 //     console.log("Hello. Good morning.")
 //  }
@@ -26,33 +26,40 @@
 //     console.log("Hello. Good morning.")
 //  }
 
+// console.log(x); // undefined
 
+// // var x = 10
+// var x = 10;
 
+// // x();
 
+// console.log(x); //10
 
+// greet(); //Hello. Good morning.
 
-console.log(x) // undefined
+// // function declaration
+function greet() {
+  console.log("Hello. Good morning.");
+}
 
-// var x = 10
- var x = 10
+add();
+// // function expresion
+let add = function () {
+  console.log(10 + 20);
+};
 
- console.log(x) //10
+// let
 
+// console.log(x);
 
+let x = 10;
 
+const y = 10;
 
-greet() //Hello. Good morning.
+console.log(y);
 
- function greet (){
-    console.log("Hello. Good morning.")
- }
+console.log(x);
 
+var z = 10;
 
-
-
-
-
-
-
-
-
+var z = 10;
