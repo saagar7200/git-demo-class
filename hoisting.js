@@ -42,11 +42,11 @@ function greet() {
   console.log("Hello. Good morning.");
 }
 
-add();
 // // function expresion
 let add = function () {
-  console.log(10 + 20);
+    console.log(10 + 20);
 };
+add();
 
 // let
 
@@ -60,6 +60,4 @@ console.log(y);
 
 console.log(x);
 
-var z = 10;
 
-var z = 10;
